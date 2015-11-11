@@ -1,3 +1,12 @@
+# ExamTime's fork of a fork of a gem for typeahead JS
+
+__Rationale__
+
+See issue for details on why we have this fork https://github.com/ExamTime/ExamTime/issues/14072
+
+Once the other (more) offical Gems have got patches merged in we can use that again and get rid of this.
+
+
 # Twitter typeahead.js jquery plugin
 
 This asset gem packages the [mantained twitter typeahead.js](https://github.com/corejavascript/typeahead.js) jquery plugin for the Rails asset pipeline.
